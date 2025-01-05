@@ -33,21 +33,27 @@ header .logo a {
     color: white;
     font-size: 2rem;
     text-decoration: none;
+    display: flex;
+    justify-content: center;
 }
 
 header ul {
     list-style: none;
     display: flex;
+    justify-content: center;
 }
 
 header ul li {
-    margin-left: 20px;
+
 }
 
 header ul li a {
     color: white;
     text-decoration: none;
     font-weight: 500;
+    display: flex;
+    justify-content: center;
+    padding: 10px 15px;
 }
 
 /* Hero Section */
