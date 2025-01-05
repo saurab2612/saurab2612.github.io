@@ -30,8 +30,8 @@ header nav {
 }
 
 header .logo a {
-    color: white;
-    font-size: 2rem;
+    color: DarkCyan;
+    font-size: 4rem;
     text-decoration: none;
     display: flex;
     justify-content: center;
